@@ -1,0 +1,15 @@
+
+*{
+    /* background-color: rgb(136, 248, 113); */
+}
+
+.h1{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 30px;
+    background-color: green;
+}
+.registraion{
+    background-color: rgb(186, 196, 11) ;
+}
